@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently a developer(back-end).
+- I'm looking for a job(Data Analyst or Back-end Dev.)
+- I worked by a developer(back-end).
 - I was a founder of VirtualWorld., LLC. 2017 ~ 2021
 - I was a professor (applied music) 2007 ~ 2016
 - I'm a musician (guitarist/composer/producer) 2000 ~
